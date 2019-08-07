@@ -1,0 +1,32 @@
+{
+  "name": "ts-oauth2-client",
+  "version": "0.0.1",
+  "description": "OAuth2.0 client for browser and node.js on TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallcreep/ts-oauth2-client.git"
+  },
+  "keywords": [
+    "OAuth2",
+    "client",
+    "nodejs",
+    "browser"
+  ],
+  "author": "Ilia Rogozhin <ilia.rogozhin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallcreep/ts-oauth2-client/issues"
+  },
+  "homepage": "https://github.com/smallcreep/ts-oauth2-client#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "eslint": "^6.1.0",
+    "typescript": "^3.5.3"
+  }
+}
